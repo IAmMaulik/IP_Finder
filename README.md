@@ -14,7 +14,7 @@ socket is a standard module that comes with python, whereas requests needs to be
   ```git clone https://github.com/IAmMaulik/IP_Finder.git```
 - Type this command in your terminal
 	```pip install -r requirements.txt```
-- Run the program by writing ```python main.py```
+- Run the program by writing ```./main.py```
 
 
 ## Point to note
