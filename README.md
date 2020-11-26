@@ -18,7 +18,7 @@ socket is a standard module that comes with python, whereas requests needs to be
 
 
 ## Point to note
-- Gor Hostname, I have used socket's gethotsname() function
+- Gor Hostname, I have used socket's gethostname() function
 - For Local IP, I have used socket's gethostbyname() function
 - For Public IP. I have used the requests module to get respose from the api of ipify.org
 
